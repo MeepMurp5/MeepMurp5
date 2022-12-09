@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MeepMurp5
-- 👀 I’m interested in math
-- 🌱 I’m currently learning math
-- 💞️ I’m looking to collaborate on math
+- 👀 I’m interested in math, piano, and programming
+- 🌱 I’m currently learning math, piano, and programming
+- 💞️ I’m not looking to collaborate
 - 📫 How to reach me MeepMurp5 on AoPS, poopy#7966 on Discord
 
 <!---
